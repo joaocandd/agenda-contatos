@@ -22,7 +22,7 @@ while True:
     print("1 - Cadastrar contato")
     print("2 - Listar contatos")
     print("3 - Buscar contato")
-    print("4 - Remover contato")
+    print("4 - Remover contato") #oi
     print("5 - Sair")
     opcao = input("Escolha uma opção: ")
 
