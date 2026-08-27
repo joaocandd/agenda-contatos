@@ -12,6 +12,7 @@ def cadastrar_contato():
 
 def listar_contatos():
     pass
+#exemplo mari
 
 
 def buscar_contato():

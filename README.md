@@ -1,8 +1,9 @@
-# agenda-contatos
+# Agenda de Contatos
 
-Aplicação em python, feita em dupla, para cadastrar, listar, buscar e remover contatos via terminal.
+Aplicação em Python, feita em dupla, para cadastrar, listar, buscar e remover contatos via terminal.
 
-## Funcionalidades 
+## Funcionalidades
+
 - Cadastrar um novo contato (nome, telefone e email)
 - Listar todos os contatos cadastrados
 - Buscar um contato pelo nome
@@ -10,16 +11,5 @@ Aplicação em python, feita em dupla, para cadastrar, listar, buscar e remover 
 
 ## Como executar
 
-´´´
+```bash
 python agenda.py
-
-´´´
-
-## Autores
-
-- Nome da pessoa A - @joaocandd
-- Nome da pessoa B - @Nightmeari
-
-## Sobre o projeto
-
-Projeto desenvolvido para a disciplina Projeto em Ciência de Dados I, como atividade prática de introdução ao Github (Issues, Projects, Pull Requests, Actions e Wiki).
